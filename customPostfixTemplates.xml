@@ -3,6 +3,17 @@
     <CptPluginSettings SettingsVersion="2">
       <option name="langName2virtualFiles">
         <map>
+          <entry key="dart">
+            <value>
+              <list>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="url" value="file://$APPLICATION_CONFIG_DIR$/plugins/intellij-postfix-templates_templates/templates/dart/dart.config.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}\dart\dart.config.postfixTemplates" />
+                </VFile>
+              </list>
+            </value>
+          </entry>
           <entry key="go">
             <value>
               <list>
