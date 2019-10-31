@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="/*" value="/**&#10; * $END$&#10; */" shortcut="ENTER" description="Block comment" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
