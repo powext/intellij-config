@@ -1,0 +1,5 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="ctrl alt f11" />
+  </action>
+</keymap>
