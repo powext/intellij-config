@@ -1,5 +1,30 @@
 <application>
   <component name="libraryTable">
+    <library name="Python 3.7 (offers_and_tips_tbot_grabber) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.conda/envs/offers_and_tips_tbot_grabber/DLLs" />
+        <root url="file://$USER_HOME$/.conda/envs/offers_and_tips_tbot_grabber/Lib" />
+        <root url="file://$USER_HOME$/.conda/envs/offers_and_tips_tbot_grabber/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.2/system/python_stubs/910750976" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.conda/envs/offers_and_tips_tbot_grabber/DLLs" />
+        <root url="file://$USER_HOME$/.conda/envs/offers_and_tips_tbot_grabber/Lib" />
+        <root url="file://$USER_HOME$/.conda/envs/offers_and_tips_tbot_grabber/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.2/system/python_stubs/910750976" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.7 (py3.7) interpreter library">
       <CLASSES>
         <root url="file://E:/Program Files/Anaconda/envs/py3.7/DLLs" />
