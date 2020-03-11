@@ -1,8 +1,17 @@
 <application>
   <component name="ApplicationNotificationSettings">
-    <option name="lastUpdateNotification" value="1.1.0" />
+    <option name="lastUpdateNotification" value="1.1.1" />
   </component>
   <component name="DiscordApplicationSettings">
+    <option name="applicationState" value="CUSTOM" />
+    <option name="applicationStateCustom" value="Working smarter not harder" />
+    <option name="projectDetails" value="PROJECT_DESCRIPTION" />
+    <option name="projectState" value="CUSTOM" />
+    <option name="projectStateCustom" value="Working smarter not harder" />
+    <option name="fileDetails" value="NONE" />
+    <option name="fileState" value="CUSTOM" />
+    <option name="fileStateCustom" value="Working smarter not harder" />
+    <option name="applicationType" value="JETBRAINS" />
     <option name="theme" value="classic" />
   </component>
 </application>
