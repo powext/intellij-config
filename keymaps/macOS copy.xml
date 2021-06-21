@@ -3,4 +3,12 @@
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
     <keyboard-shortcut first-keystroke="meta less" />
   </action>
+  <action id="com.mnw.tabmover.actions.MoveTabDownAction" />
+  <action id="com.mnw.tabmover.actions.MoveTabToNextSplitter">
+    <keyboard-shortcut first-keystroke="shift meta alt right" />
+  </action>
+  <action id="com.mnw.tabmover.actions.MoveTabToPreviousSplitter">
+    <keyboard-shortcut first-keystroke="shift meta alt left" />
+  </action>
+  <action id="com.mnw.tabmover.actions.MoveTabUpAction" />
 </keymap>
