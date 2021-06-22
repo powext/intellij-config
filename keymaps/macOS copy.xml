@@ -3,6 +3,10 @@
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
     <keyboard-shortcut first-keystroke="meta #10000f2" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
   <action id="com.mnw.tabmover.actions.MoveTabDownAction" />
   <action id="com.mnw.tabmover.actions.MoveTabToNextSplitter">
     <keyboard-shortcut first-keystroke="shift meta alt right" />
